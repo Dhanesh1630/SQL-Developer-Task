@@ -1,0 +1,96 @@
+# SQL Developer Internship Tasks
+
+## Domain Chosen
+
+Library Management System
+
+---
+
+# Task 1: Database Setup and Schema Design
+
+## Objective
+
+Designed and created a relational database schema for a Library Management System.
+
+## Tools Used
+
+* MySQL Workbench
+* SQL
+
+## Files Included
+
+* schema.sql
+* ER_Diagram.png
+
+## Tables Created
+
+1. Authors
+2. Books
+3. Members
+4. BorrowedBooks
+
+## Relationships
+
+* One author can write many books
+* One member can borrow many books
+* One book can be borrowed multiple times
+
+## Concepts Used
+
+* DDL Commands
+* Primary Keys
+* Foreign Keys
+* Normalization
+* ER Diagram Design
+
+## Outcome
+
+Successfully created a well-structured relational database schema with proper relationships.
+
+---
+
+# Task 2: Data Insertion and Handling NULLs
+
+## Objective
+
+Practiced inserting, updating, and deleting data while handling NULL values properly.
+
+## Tools Used
+
+* MySQL Workbench
+* DB Fiddle
+
+## Files Included
+
+* data_operations.sql
+
+## Operations Performed
+
+* INSERT INTO
+* UPDATE
+* DELETE
+* NULL handling
+
+## Sample Tasks Done
+
+* Added authors, books, and members data
+* Updated missing values using UPDATE
+* Deleted unnecessary records using DELETE
+* Managed NULL values for optional fields
+
+## Concepts Used
+
+* DML Commands
+* Data Consistency
+* WHERE Conditions
+* NULL Handling
+
+## Outcome
+
+Successfully populated the database with clean and consistent data.
+
+---
+
+# Author
+
+Dhanesh Bandiboyana
