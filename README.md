@@ -94,3 +94,33 @@ Successfully populated the database with clean and consistent data.
 # Author
 
 Dhanesh Bandiboyana
+
+# Task 3: Writing Basic SELECT Queries
+
+## Objective
+
+Learned how to retrieve data from one or more tables using SQL queries.
+
+## Tools Used
+
+* MySQL Workbench
+* DB Browser for SQLite
+
+## File Included
+
+* select_queries.sql
+
+## SQL Concepts Used
+
+* SELECT
+* WHERE
+* AND
+* OR
+* LIKE
+* BETWEEN
+* ORDER BY
+* LIMIT
+
+## Outcome
+
+Successfully retrieved and filtered data using different SQL query conditions and sorting techniques.
