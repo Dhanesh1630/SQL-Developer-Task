@@ -1,4 +1,4 @@
-```sql id="ngtlri"
+
 -- Use Database
 USE LibraryDB;
 
@@ -87,4 +87,3 @@ SELECT title, published_year
 FROM Books
 ORDER BY published_year DESC
 LIMIT 2;
-```

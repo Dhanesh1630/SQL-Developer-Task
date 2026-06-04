@@ -124,3 +124,29 @@ Learned how to retrieve data from one or more tables using SQL queries.
 ## Outcome
 
 Successfully retrieved and filtered data using different SQL query conditions and sorting techniques.
+# Task 4: Aggregate Functions and Grouping
+
+## Objective
+
+Learned how to summarize and analyze data using aggregate functions and grouping techniques.
+
+## Tools Used
+
+* MySQL Workbench
+* DB Browser for SQLite
+
+## File Included
+
+* aggregate_queries.sql
+
+## SQL Concepts Used
+
+* COUNT()
+* SUM()
+* AVG()
+* GROUP BY
+* HAVING
+
+## Outcome
+
+Successfully generated summarized reports and grouped data for analysis using SQL aggregate functions.
