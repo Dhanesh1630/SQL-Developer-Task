@@ -150,3 +150,29 @@ Learned how to summarize and analyze data using aggregate functions and grouping
 ## Outcome
 
 Successfully generated summarized reports and grouped data for analysis using SQL aggregate functions.
+# Task 5: SQL Joins
+
+## Objective
+
+Learned how to combine data from multiple related tables using SQL joins.
+
+## Tools Used
+
+* MySQL Workbench
+* DB Browser for SQLite
+
+## File Included
+
+* joins_queries.sql
+
+## SQL Concepts Used
+
+* INNER JOIN
+* LEFT JOIN
+* RIGHT JOIN
+* FULL OUTER JOIN (using UNION)
+* Multi-table JOIN
+
+## Outcome
+
+Successfully merged and retrieved related data from multiple tables, improving understanding of relational database operations.

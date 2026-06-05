@@ -27,7 +27,7 @@ CREATE TABLE Members (
     member_name VARCHAR(100) NOT NULL,
     email VARCHAR(100) UNIQUE,
     join_date DATE
-);borrowedbooks
+);
 
 -- Borrowed Books Table
 CREATE TABLE BorrowedBooks (

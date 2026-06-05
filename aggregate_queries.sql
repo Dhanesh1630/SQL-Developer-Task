@@ -1,4 +1,4 @@
-```sql
+
 USE LibraryDB;
 
 ---------------------------------------------------
@@ -80,4 +80,4 @@ SELECT member_id,
 FROM BorrowedBooks
 GROUP BY member_id
 HAVING SUM(fine_amount) > 50;
-```
+
