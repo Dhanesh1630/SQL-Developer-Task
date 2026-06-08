@@ -176,3 +176,30 @@ Learned how to combine data from multiple related tables using SQL joins.
 ## Outcome
 
 Successfully merged and retrieved related data from multiple tables, improving understanding of relational database operations.
+# Task 6: Subqueries and Nested Queries
+
+## Objective
+
+Learned how to use subqueries in SELECT, WHERE, and FROM clauses to perform advanced data retrieval.
+
+## Tools Used
+
+* MySQL Workbench
+* DB Browser for SQLite
+
+## File Included
+
+* subqueries.sql
+
+## SQL Concepts Used
+
+* Scalar Subqueries
+* Correlated Subqueries
+* IN
+* EXISTS
+* NOT EXISTS
+* Nested Queries
+
+## Outcome
+
+Successfully implemented advanced query logic using subqueries and nested SQL statements.
